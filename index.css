@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    background-image: url( image1.jpeg);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color:khaki;
+
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight:bold;
+    color:white;
+
+}
+
+#one{ 
+    background-color: mediumspringgreen;
+}
+
+#two{ 
+background-color: lightcoral;
+}
+
+#three{
+    background-color: skyblue;
+}
+
+.span{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:blue;
+}
